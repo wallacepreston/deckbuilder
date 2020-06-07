@@ -1,0 +1,31 @@
+{
+  "name": "deckbuilder",
+  "version": "1.0.0",
+  "description": "An app that uses the API at api.magicthegathering.io to build a single page application using React.  Allows a user to build a deck of cards.",
+  "main": "index.js",
+  "scripts": {
+    "test": "react-scripts test",
+    "start:dev": "react-scripts start"
+  },
+  "keywords": [],
+  "author": "Preston Wallace",
+  "license": "MIT",
+  "dependencies": {
+    "axios": "^0.19.2",
+    "react": "^16.13.1",
+    "react-dom": "^16.13.1",
+    "react-scripts": "^3.4.1"
+  },
+  "browserslist": {
+    "production": [
+      ">0.2%",
+      "not dead",
+      "not op_mini all"
+    ],
+    "development": [
+      "last 1 chrome version",
+      "last 1 firefox version",
+      "last 1 safari version"
+    ]
+  }
+}
