@@ -18,7 +18,7 @@ const SearchBar = ({ setResults }) => {
 
   async function handleSubmit(event) {
     event.preventDefault();
-
+    
     const cards = await fetchCards({
       name,
       text
