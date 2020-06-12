@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/deckbuilder/static/css/main.60b5589c.chunk.css",
+    "main.js": "/deckbuilder/static/js/main.b47ef102.chunk.js",
+    "main.js.map": "/deckbuilder/static/js/main.b47ef102.chunk.js.map",
+    "runtime-main.js": "/deckbuilder/static/js/runtime-main.aba5058e.js",
+    "runtime-main.js.map": "/deckbuilder/static/js/runtime-main.aba5058e.js.map",
+    "static/js/2.52919355.chunk.js": "/deckbuilder/static/js/2.52919355.chunk.js",
+    "static/js/2.52919355.chunk.js.map": "/deckbuilder/static/js/2.52919355.chunk.js.map",
+    "index.html": "/deckbuilder/index.html",
+    "precache-manifest.836b200cf583986ee09fe4eb1de8ef31.js": "/deckbuilder/precache-manifest.836b200cf583986ee09fe4eb1de8ef31.js",
+    "service-worker.js": "/deckbuilder/service-worker.js",
+    "static/css/main.60b5589c.chunk.css.map": "/deckbuilder/static/css/main.60b5589c.chunk.css.map",
+    "static/js/2.52919355.chunk.js.LICENSE.txt": "/deckbuilder/static/js/2.52919355.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.aba5058e.js",
+    "static/js/2.52919355.chunk.js",
+    "static/css/main.60b5589c.chunk.css",
+    "static/js/main.b47ef102.chunk.js"
+  ]
+}
